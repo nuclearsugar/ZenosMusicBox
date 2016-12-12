@@ -7,7 +7,7 @@ It will also fade in & out each sample, which is important to avoid clipping and
 http://puredata.info/downloads/pd-extended/releases/0.43.4
 
 ###Watch a demo
-[![Zeno’s Music Box Demo](https://img.youtube.com/vi/lKmvMRn6uU0/0.jpg)](https://www.youtube.com/watch?v=lKmvMRn6uU0)
+[![Zeno’s Music Box Demo](https://img.youtube.com/vi/iYXWX08sTWs/0.jpg)](https://www.youtube.com/watch?v=iYXWX08sTWs)
 
 ###Want to add your own samples?
 For example, you have 71 WAV’s you want to input. So let’s edit “ZenosMusicBox_NilsFrahm.pd”
