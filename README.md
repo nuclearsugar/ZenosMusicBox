@@ -17,7 +17,7 @@ Let's imagine that you have 71 WAV’s you want to input.
 - Edit the ‘open’ message box with the relevant filename.
   - *Before: `open WAVs/NilsFrahm_$1.wav start`*
   - *After: `open WAVs/Example_$1.wav start`*
-- Edit the ‘Random’ object box to be the total number of WAV's you're inputting
+- Edit the ‘random’ object box to be the total number of WAV's you're inputting
   - *Before: `random 48`*
   - *After: `random 71`*
 - Done! Just turn up the ‘output~’ volume and click the ‘Begin & End’ toggle to start playback.
