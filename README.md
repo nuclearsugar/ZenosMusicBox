@@ -14,10 +14,10 @@ Let's imagine that you have 71 WAV’s you want to input.
 - Rename the WAV’s to be numbered sequentially.
   - *`Example_1.wav, Example_2.wav, Example_3.wav...`*
 - Open the patch within Pd: *ZenosMusicBox_NilsFrahm.pd*
-- Edit the open message box with the relevant filename.
+- Edit the ‘open’ message box with the relevant filename.
   - *Before: `open WAVs/NilsFrahm_$1.wav start`*
   - *After: `open WAVs/Example_$1.wav start`*
-- Edit the ‘Random’ object box to be a number which matches the amount of WAV’s you have.
+- Edit the ‘Random’ object box to be the total number of WAV's you're inputting
   - *Before: `random 48`*
   - *After: `random 71`*
 - Done! Just turn up the ‘output~’ volume and click the ‘Begin & End’ toggle to start playback.
