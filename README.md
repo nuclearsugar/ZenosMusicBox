@@ -1,7 +1,7 @@
 #Zeno’s Music Box
 This Pure Data patch is a random sample player. Although quite simple, it can create some beautiful landscapes and generate music infinitely.
 
-It will also fade in & out each sample, which is important to avoid clipping and also lends a more human feel to the performance. The ‘Global Rate’ will adjust the amount of time until the next sample is triggered and is fun to play with intuitively. The ‘Sample Stop’ will fade out the current sample and is useful for creating quiet moments. The blue boxes are related to reverb, which it vital to hiding the transitions between samples.
+It will also fade in & out each sample, which is important to avoid clipping and also lends a more human feel to the performance. The ‘Global Rate’ will adjust the amount of time until the next sample is triggered and is fun to play with intuitively. The ‘Sample Stop’ will fade out the current sample and is useful for creating quiet moments. The blue boxes are related to reverb, which are vital to hiding the transitions between samples.
 
 ###Requires use of Pd-Extended
 http://puredata.info/downloads/pd-extended/releases/0.43.4
