@@ -10,13 +10,14 @@ http://puredata.info/downloads/pd-extended/releases/0.43.4
 [![Zeno’s Music Box Demo](https://img.youtube.com/vi/iYXWX08sTWs/0.jpg)](https://www.youtube.com/watch?v=iYXWX08sTWs)
 
 ###Want to add your own samples?
-For example, you have 71 WAV’s you want to input. So let’s edit “ZenosMusicBox_NilsFrahm.pd”
-- First you need to rename your WAV’s so that they are numbered sequentially.
+Let's imagine that you have 71 WAV’s you want to input. 
+- Rename your WAV’s to be numbered sequentially.
   - *`Example_1.wav, Example_2.wav, Example_3.wav...`*
-- Within Pd, edit the open message box with the relevant filename.
+- Open the patch within Pd: *ZenosMusicBox_NilsFrahm.pd*
+- Edit the open message box with the relevant filename.
   - *Before: `open WAVs/NilsFrahm_$1.wav start`*
   - *After: `open WAVs/Example_$1.wav start`*
-- Within Pd, edit the ‘Random’ object box to be a number which matches the amount of WAV’s you have.
+- Edit the ‘Random’ object box to be a number which matches the amount of WAV’s you have.
   - *Before: `random 48`*
   - *After: `random 71`*
 - Done! Just turn up the ‘output~’ volume and click the ‘Begin & End’ toggle to start playback.
