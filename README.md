@@ -13,7 +13,7 @@ http://puredata.info/downloads/pd-extended/releases/0.43.4
 Let's imagine that you have 71 WAV’s you want to input. 
 - Rename the WAV’s to be numbered sequentially.
   - *`Example_1.wav, Example_2.wav, Example_3.wav...`*
-- Open the patch within Pd: *ZenosMusicBox_NilsFrahm.pd*
+- Open the patch within Pure Data: *ZenosMusicBox_NilsFrahm.pd*
 - Edit the ‘open’ message box with the relevant filename.
   - *Before: `open WAVs/NilsFrahm_$1.wav start`*
   - *After: `open WAVs/Example_$1.wav start`*
