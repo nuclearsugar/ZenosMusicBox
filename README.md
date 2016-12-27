@@ -11,7 +11,7 @@ http://puredata.info/downloads/pd-extended/releases/0.43.4
 [![Zeno’s Music Box Demo](https://img.youtube.com/vi/iYXWX08sTWs/0.jpg)](https://www.youtube.com/watch?v=iYXWX08sTWs)
 
 ###Want to add your own samples?
-Let's imagine that you have 71 WAV’s you want to input. 
+Let's imagine that you have 71 samples you want to input. (Must be WAV's, MP3's not supported)
 - Rename the WAV’s to be numbered sequentially and move them into the folder named "WAVs".
   - *`Example_1.wav, Example_2.wav, Example_3.wav...`*
 - Open the patch within Pure Data: *ZenosMusicBox_NilsFrahm.pd*
