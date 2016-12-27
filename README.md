@@ -23,6 +23,10 @@ Let's imagine that you have 71 samples you want to input. (Must be WAV's, MP3's 
   - *After: `random 71`*
 - Done! Just turn up the ‘output~’ volume and click the ‘Begin & End’ toggle to start playback.
 
+###Useful Utilities
+- [Macsome Audio Splitter](http://www.macsome.com/audio-splitter-mac/) - automatically cut-up an audio file into small pieces
+- [Max Converter](http://sbooth.org/Max/) - easily convert between MP3 and WAV
+
 ###Credits
 I’d like to give a shout out to the amazing musicians which I’ve cutup and sampled in this patch.
 - Ayako Hotta-Lister - London No Yoru No Ame (Album: The Japanese Koto)
