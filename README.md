@@ -12,7 +12,7 @@ http://puredata.info/downloads/pd-extended/releases/0.43.4
 
 ###Want to add your own samples?
 Let's imagine that you have 71 WAV’s you want to input. 
-- Rename the WAV’s to be numbered sequentially.
+- Rename the WAV’s to be numbered sequentially and move them into the folder named "WAVs".
   - *`Example_1.wav, Example_2.wav, Example_3.wav...`*
 - Open the patch within Pure Data: *ZenosMusicBox_NilsFrahm.pd*
 - Edit the ‘open’ message box with the relevant filename.
